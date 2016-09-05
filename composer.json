@@ -3,7 +3,6 @@
     "description": "Opengraph for flarum.",
     "type": "flarum-extension",
     "keywords": ["opengraph", "flarum", "embedding"],
-    "version": "v0.1.0-beta.1",
     "license": "MIT",
     "authors": [
         { "name": "Marco Zambianchi for ISAA Techcnical Team", "email": "marco.zambianchi@isaa.it" }
