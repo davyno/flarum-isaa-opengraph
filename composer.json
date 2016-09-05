@@ -12,6 +12,7 @@
         "issues": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph/issues",
         "source": "https://github.com/ItalianSpaceAstronauticsAssociation/flarum-isaa-opengraph"
     },
+    "minimum-stability": "dev",
     "require": {
         "flarum/core": "^0.1.0-beta.5"
     },
